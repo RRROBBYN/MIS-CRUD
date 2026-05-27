@@ -1,5 +1,6 @@
-#Management Information Systems
-##Contact Manager Desktop App
+# Management Information Systems
+
+## Contact Manager Desktop App
 
 Name: Clemente, Robyn Paul M.
 
